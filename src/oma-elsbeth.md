@@ -284,7 +284,9 @@ Irgendwann in der Nach trug mein Mann mich dann, Elisabeth nicht zu vergessen, �
 
 ![](images/enhanced-edited35.png)
 
-Ein Nachwort sei mir gestattet.
+---
+
+***Ein Nachwort sei mir gestattet.***
 
 Vor fünf Jahren hatte ich schon mal alles mit der Hand aufgeschrieben und auch mit einem Schlusswort abgeschlossen. Dieses passt heute überhaupt nicht mehr. Man sollte seine persönlichen Gedanken nicht niederschreiben. Auch Gefühle sind für die Mitmenschen nicht nachvollziehbar. Dem einzigen Menschen, dem ich meine innersten Gedanken und Gefühle mitteilen konnte, war mein Mann. Wir fühlten uns sicher und glücklich in unserem Hafen der Ehe. Niemals wollte einer von uns diesen Hafen verlassen, auch wenn mal ein kräftiger Sturm hineinblies. Ein Jahr hat mein lieber Mann nun diesen Ort schon verlassen. Ich glaube, er hat sich gegen den bösen Sturm, seine Krankheit, mit allen Kräften gewehrt, weil er diesen Hafen auch dann noch nicht verlassen wollte. Vielleicht kommt einer meiner Nachkommen mal auf die Idee, auch seine Kindheitserinnerungen niederzuschreiben und ergänzt diese Aufzeichnungen aus einer anderen Sicht. Man braucht aber einen gewissen Abstand. Ich habe alles so aufgeschrieben, wie ich es in Erinnerung habe. Ich habe nichts übertrieben und hätte noch ausführlicher schreiben können. Aber es reicht, auch aus meiner Sicht.
 

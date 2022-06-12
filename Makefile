@@ -13,7 +13,7 @@ install:
 	cargo install mdbook
 
 s serve:
-	mdbook serve
+	mdbook serve ./docs
 
 build:
-	mdbook build
+	mdbook build ./docs
