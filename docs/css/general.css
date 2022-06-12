@@ -1,6 +1,7 @@
 /* Base styles and content styles */
 
 @import 'variables.css';
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&display=swap');
 
 :root {
     /* Browser default font-size is 16px, this way 1 rem = 10px */
@@ -19,6 +20,12 @@ body {
     margin: 0;
     font-size: 1.6rem;
     overflow-x: hidden;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Manrope', sans-serif;
+  font-weight: 700;
+  /* font-family: 'Crimson Pro', serif; */
 }
 
 code {
@@ -93,7 +100,12 @@ h6:target::before {
 .content ul { line-height: 1.45em; }
 .content a { text-decoration: none; }
 .content a:hover { text-decoration: underline; }
-.content img, .content video { max-width: 100%; }
+.content img, .content video { max-width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+  margin-bottom : 3em; }
 .content .header:link,
 .content .header:visited {
     color: var(--fg);
